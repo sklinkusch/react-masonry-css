@@ -28,12 +28,14 @@
   background-color: white;
   width: 100vw;
   height: 100vh;
-  max-width: 100vw;
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  grid-auto-flow: dense;
   gap: 1px;
+  grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(2, 1fr);
+  grid-auto-flow: dense;
+  /* grid-auto-flow controls the way items are put into the grid. dense means
+  the order can be neglected to pack the grid in a denser way without leaving
+  many gaps */
 }
 
 .flex {
