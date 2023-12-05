@@ -4,8 +4,9 @@ Simple Tetris-like layout - an extended masonry design with some elements
 spanning more than one column or row. Purely written using CSS, no JavaScript
 calculations or positioning is needed for the layout.
 
-## Acknowledgement
+## Acknowledgement and Dedication
 
-This repository is dedicated to [@sophiamsb](https://github.com/sophiamsb), the best and most creative graphic
-designer and web developer I ever met. She also had the idea for this
-mini-project. 
+Ce dépôt est dédicacé à [@sophiamsb](https://github.com/sophiamsb), la meilleure
+graphiste et programmatrice web que j'ai jamais rencontrée et une vraiment bonne
+amie. Chaque minute avec elle est une inspiration pour moi. Elle a eu aussi
+l'idée pour ce projet. Je voudrais que ce temps ne finira jamais.
